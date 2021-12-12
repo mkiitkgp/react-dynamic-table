@@ -114,7 +114,7 @@ export default function NameFull() {
   return (
     <div>
       <p> Hello New file </p>
-      <ul>{ele}</ul>
+      {/* <ul>{ele}</ul> */}
       <table>
         <tr>
           {tableHeader.map((t) => {

@@ -22,7 +22,7 @@ export default function App() {
       <button onClick={handleClick}>Increment</button>
       <button onClick={handleDecrement}> Decrement </button>
       <p>{counter}</p>
-      {/* <GetData /> */}
+      <GetData />
 
       <NameFull />
     </div>
